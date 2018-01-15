@@ -1,3 +1,6 @@
+# invisible files
+.gitignore
+
 # examples written by TensorFlow
 mnist_deep.py
 mnist_softmax.py
